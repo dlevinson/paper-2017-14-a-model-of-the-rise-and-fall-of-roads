@@ -1,0 +1,6 @@
+item,package_path,decision,reason
+JTLU paper PDF,paper/887-4031-1-PB.pdf,keep,paper reference
+ADAM4.1 Java source,code/adam4_1_candidate/,keep_as_candidate_not_final,local model source is plausible for the paper but not proven to be the exact published experiment code
+ADAM4.1 Twin Cities network text files,data/twin_cities_adam4_1_candidate/,keep_as_candidate_not_final,"candidate has 7393 node records and 20380 link records, while paper reports 7976 nodes and 20914 links"
+Sioux Falls example inputs,data/examples/,keep_as_model_context,small example inputs bundled with ADAM4.1 source
+"legacy compiled Java .class files, duplicate image/help sidecars, Eclipse metadata, drafts, presentations",not staged,exclude,not needed for public source package or paper/data/code boundary
