@@ -1,6 +1,6 @@
 # Package Status: A Model Of The Rise And Fall Of Roads
 
-Generated: 2026-05-22 06:51:10 AEST
+Generated: 2026-05-22 07:37:26 AEST
 
 ## Audit State
 
@@ -25,5 +25,5 @@ Generated: 2026-05-22 06:51:10 AEST
 ## Upload Boundary
 
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
-- Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
+- Include `paper/` PDF reference copies in public paper-package repositories by owner decision; publisher takedown requests can be handled later if they arise.
 - Confirm finality and license before repository creation.
