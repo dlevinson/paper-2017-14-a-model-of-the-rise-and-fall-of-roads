@@ -3,7 +3,7 @@
 - Row ID: `paper-2017-14`
 - Title: A Model Of The Rise And Fall Of Roads
 - Decision time: 2026-05-17 22:26:28 AEST
-- Current routing: move to `READY-TO-UPLOAD/PUBLIC`
+- Current routing: move to `UPLOADED`
 
 The local ADAM4.1 source tree is a plausible candidate for the model used in the paper, and a filtered copy has been staged in this package. Direct paper comparison prevents treating it as ready: the paper reports 7,976 nodes and 20,914 links, while the staged ADAM4.1 Twin Cities inputs contain 7,393 node records and 20,380 link records.
 
