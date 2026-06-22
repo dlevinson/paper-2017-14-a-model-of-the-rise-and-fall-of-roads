@@ -1,5 +1,9 @@
 # A Model Of The Rise And Fall Of Roads
 
+## Contribution
+
+This paper develops a link-level model of how road networks expand, reorganize, and decline through interactions among demand, revenue, costs, and investment rules. Applied to a large historical Twin Cities network, it demonstrates computationally how road hierarchy and the spatial distribution of capacity, traffic, and congestion can emerge over time.
+
 ## Bibliographic information
 
 - Row ID: `paper-2017-14`
