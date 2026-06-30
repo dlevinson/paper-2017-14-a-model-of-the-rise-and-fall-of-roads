@@ -11,6 +11,7 @@ Generated: 2026-05-22 07:37:26 AEST
 - Rights status: `likely_clear_with_provenance`
 - Controlled access status: `none`
 - Human subjects status: `no`
+- Repository license: MIT for author-created code/scripts; CC BY 4.0 for repository-created documentation and derived data; paper PDF and legacy source materials retained under original terms
 - Bibliographic citation: Zhang, Levinson. (2017). A Model Of The Rise And Fall Of Roads. JTLU 10(1):337–356 (2017). 10.5198/jtlu.2016.887; http://hdl.handle.net/11299/180072
 
 ## Package Checks

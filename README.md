@@ -1,5 +1,12 @@
 # A Model Of The Rise And Fall Of Roads
 
+## License
+
+Author-created code and scripts are licensed under MIT. Repository-created
+documentation and derived data are licensed under CC BY 4.0. The paper PDF
+under `paper/` and any third-party or legacy source materials retain their
+original terms.
+
 ## Contribution
 
 This paper develops a link-level model of how road networks expand, reorganize, and decline through interactions among demand, revenue, costs, and investment rules. Applied to a large historical Twin Cities network, it demonstrates computationally how road hierarchy and the spatial distribution of capacity, traffic, and congestion can emerge over time.
